@@ -8,8 +8,10 @@ Para clonar el repositorio usamos el siguiente comando
 git clone https://github.com/dvidgb/campusciff.git
 ~~~
 ![Imagen 2](http://imgfz.com/i/iJCbfWH.jpeg)
+
 ### 1.3 Crear documento readme.md
 ![Imagen 3](http://imgfz.com/i/WdN3ywm.jpeg)
+
 ### 1.4 Commit Incial
 Hacemos el primer commit
 ~~~~
@@ -17,6 +19,7 @@ git add readme.md
 git commit -m "commit inicial"
 ~~~~
 ![Imagen 4](http://imgfz.com/i/1omWLXB.jpeg)
+
 ### 1.5 Push Inicial 
 ~~~~
  git push -u origin master
@@ -35,10 +38,13 @@ git commit -m "commit inicial"
  
  ### 1.9 Crear el tag vo.1
  ![Imagen 11](http://imgfz.com/i/Uiy1FKX.jpeg)
+ 
  ### 1.10 Subir el tag vo.1
  ![Imagen 12](http://imgfz.com/i/Uiy1FKX.jpeg)
+ 
  ### 1.11 Uso social de GitHub
  ![Imagen 13](http://imgfz.com/i/HFwEDfI.jpeg)
+ 
  ### 1.12 Crear una tabla
  | NOMBRE             | GITHUB                                                   |
 |--------------------|----------------------------------------------------------|
@@ -54,8 +60,10 @@ git commit -m "commit inicial"
 
 ### 2.2 Añadir fichero 2.txt a rama v0.2
 ![Imagen 16](http://imgfz.com/i/XEVsx3q.jpeg)
+
 ### 2.3 Crear rama remota v0.2
 ![Imagen 17](http://imgfz.com/i/B2haYfH.jpeg)
+
 ### 2.4 Merge directo
 ![Imagen 18](http://imgfz.com/i/iP2KZU3.jpeg)
 
